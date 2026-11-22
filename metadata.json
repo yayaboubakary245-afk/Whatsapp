@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Campus — SUP'PTIC",
+  "description": "Plateforme de communication universitaire Android Studio (Java), serveur Golang (REST/WebSocket/TCP/UDP) et PostgreSQL (22 tables) pour le Groupe 12 SUP'PTIC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

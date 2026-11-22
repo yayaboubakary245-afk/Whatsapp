@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WhatsApp Campus</string>
+    <string name="campus_subtitle">SUP\'PTIC — Communication Universitaire</string>
+    <string name="email_hint">prenom.nom@ensptic.cm</string>
+</resources>
